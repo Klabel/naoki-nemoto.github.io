@@ -27,6 +27,9 @@ header #header_in h1 {
     float: right;
   }
 }
+header #header_in #sp_navi_btn {
+  cursor: pointer;
+}
 header #header_in .sp_navi_li {
   width: 180px;
   position: absolute;
